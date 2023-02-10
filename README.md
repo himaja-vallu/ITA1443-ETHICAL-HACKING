@@ -3,7 +3,8 @@ STEP 1:
 ![image](https://user-images.githubusercontent.com/113325376/218004275-ccc3f860-efab-4d89-bc4f-29a24afe0df1.png)
 STEP 2:
 ![image](https://user-images.githubusercontent.com/113325376/218004406-5f906431-1e0e-4577-b5f6-1fd51e05432e.png)
-
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/218004505-d6a83d66-8fb4-4f2a-ae98-699612d05482.png)
 
 
 EXPERIMENT 3:
