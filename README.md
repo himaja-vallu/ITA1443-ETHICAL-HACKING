@@ -37,6 +37,12 @@ STEP 9:
 ![image](https://user-images.githubusercontent.com/113325376/217539119-dd64e3a3-56d9-4dc8-a09a-97e5ff34aff8.png)
 
 
+EXPERIMENT 4:
+
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/218015236-cf24ac4f-215c-4283-9b2f-0dfe0a65e1c5.png)
+
+
 
 EXPERIMENT 5:
 
