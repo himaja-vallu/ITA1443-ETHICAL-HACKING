@@ -44,3 +44,5 @@ STEP 4:
 STEP 5:
 ![image](https://user-images.githubusercontent.com/113325376/217533832-2e7d13f4-aad5-43e3-b967-352157b8b311.png)
 ![image](https://user-images.githubusercontent.com/113325376/217533906-3afd45fe-c3aa-4809-a297-928e22a42640.png)
+STEP 6:
+![image](https://user-images.githubusercontent.com/113325376/217534073-e374a62f-ed53-4766-a0ef-5bcccf56247c.png)
