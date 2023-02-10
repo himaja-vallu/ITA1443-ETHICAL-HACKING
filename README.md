@@ -8,6 +8,11 @@ STEP 3:
 STEP 4:
 ![image](https://user-images.githubusercontent.com/113325376/218004639-a397db0f-d76a-4f3a-880a-5f3031015bd8.png)
 
+
+EXPERIMENT 2:
+STEP 1:
+![Screenshot (124)](https://user-images.githubusercontent.com/113325376/218014921-cf3ea801-08d2-41e5-be88-81486e4b51a7.png)
+
 EXPERIMENT 3:
 
 STEP 1:
