@@ -34,4 +34,6 @@ STEP 3:
 EXPERIMENT 7:
 
 STEP 1:
-![Screenshot (118)](https://user-images.githubusercontent.com/113325376/217532823-50618393-2b03-4719-aa38-dce0566bfb54.png
+![Screenshot (118)](https://user-images.githubusercontent.com/113325376/217532823-50618393-2b03-4719-aa38-dce0566bfb54.png)
+STEP 2:
+![Screenshot (119)](https://user-images.githubusercontent.com/113325376/217532709-a3846350-0e1a-4dbe-b86a-be78a18951c3.png)
