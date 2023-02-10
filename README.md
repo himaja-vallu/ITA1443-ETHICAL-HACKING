@@ -27,3 +27,5 @@ STEP 1:
 ![image](https://user-images.githubusercontent.com/113325376/217540180-a0443d23-b88f-43fa-bbc5-bbd9d358858b.png)
 STEP 2:
 ![image](https://user-images.githubusercontent.com/113325376/217540808-d1de8130-f36b-4f3c-90a9-6113e1595114.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
