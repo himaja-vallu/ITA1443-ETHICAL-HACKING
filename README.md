@@ -70,3 +70,10 @@ STEP 3:
 ![image](https://user-images.githubusercontent.com/113325376/217536554-7f77ee8c-20a6-4549-8ca1-ff780c892514.png)
 STEP 4:
 ![image](https://user-images.githubusercontent.com/113325376/217537020-843916c4-d383-4155-958e-f6f2aff08557.png)
+
+
+
+EXPERIMENT 10:
+
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/217537637-8270f592-bf55-4c7f-af32-17ca784d0098.png)
