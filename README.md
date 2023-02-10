@@ -79,3 +79,5 @@ STEP 1:
 ![image](https://user-images.githubusercontent.com/113325376/217537637-8270f592-bf55-4c7f-af32-17ca784d0098.png)
 STEP 2:
 ![image](https://user-images.githubusercontent.com/113325376/217537772-090350fb-d065-4329-ae8e-7a967d57e347.png)
+STEP 3:
+![image](https://user-images.githubusercontent.com/113325376/217537871-ae47f02e-f2ea-4a0d-bce1-a14bb4c127e2.png)
