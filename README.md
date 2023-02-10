@@ -81,3 +81,5 @@ STEP 2:
 ![image](https://user-images.githubusercontent.com/113325376/217537772-090350fb-d065-4329-ae8e-7a967d57e347.png)
 STEP 3:
 ![image](https://user-images.githubusercontent.com/113325376/217537871-ae47f02e-f2ea-4a0d-bce1-a14bb4c127e2.png)
+STEP 4:
+![image](https://user-images.githubusercontent.com/113325376/217537970-82440a50-0c9d-41a6-bf89-54e49e1ae89d.png)
