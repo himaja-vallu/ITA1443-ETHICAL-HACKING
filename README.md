@@ -1,3 +1,9 @@
+EXPERIMENT 1:
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/218004275-ccc3f860-efab-4d89-bc4f-29a24afe0df1.png)
+
+
+
 EXPERIMENT 3:
 
 STEP 1:
