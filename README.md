@@ -29,3 +29,9 @@ STEP 2:
 ![image](https://user-images.githubusercontent.com/113325376/217540808-d1de8130-f36b-4f3c-90a9-6113e1595114.png)
 STEP 3:
 ![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
+
+
+EXPERIMENT 7:
+
+STEP 1:
+![Screenshot (118)](https://user-images.githubusercontent.com/113325376/217532823-50618393-2b03-4719-aa38-dce0566bfb54.png
