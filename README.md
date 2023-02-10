@@ -12,6 +12,8 @@ STEP 4:
 EXPERIMENT 2:
 STEP 1:
 ![Screenshot (124)](https://user-images.githubusercontent.com/113325376/218014921-cf3ea801-08d2-41e5-be88-81486e4b51a7.png)
+STEP 2:
+![Screenshot (125)](https://user-images.githubusercontent.com/113325376/218015021-9b9ac8e8-b378-4729-a62f-0828dab79d3b.png)
 
 EXPERIMENT 3:
 
