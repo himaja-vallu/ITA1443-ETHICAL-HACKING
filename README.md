@@ -46,3 +46,10 @@ STEP 5:
 ![image](https://user-images.githubusercontent.com/113325376/217533906-3afd45fe-c3aa-4809-a297-928e22a42640.png)
 STEP 6:
 ![image](https://user-images.githubusercontent.com/113325376/217534073-e374a62f-ed53-4766-a0ef-5bcccf56247c.png)
+
+
+
+EXPERIMENT 8:
+
+STEP 1:
+![Screenshot (99)](https://user-images.githubusercontent.com/113325376/217534564-7211e6c3-3f61-4d48-b3bf-dc06a7944ed9.png)
