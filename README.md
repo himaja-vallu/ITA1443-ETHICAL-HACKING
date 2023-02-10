@@ -57,3 +57,10 @@ STEP 2:
 ![Screenshot (100)](https://user-images.githubusercontent.com/113325376/217534653-9387febf-4d5f-4970-a2f3-19448c91c432.png)
 STEP 3:
 ![Screenshot (101)](https://user-images.githubusercontent.com/113325376/217535010-88186ce4-fd43-4f13-8c34-da3955287dfa.png)
+
+
+
+EXPERIMENT 9:
+
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/217535773-c8cb73d8-777b-4f35-94f9-ba2c5bf75867.png)
